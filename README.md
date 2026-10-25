@@ -6,7 +6,11 @@ I write C++ most days — learning systems by building small things in public.
 AI agents are part of how I learn and ship; I keep the understanding, not just the output.
 
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,ts,python,c" alt="C++, TypeScript, Python, C" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cts%2Cpython%2Cc&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cts%2Cpython%2Cc&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp%2Cts%2Cpython%2Cc&amp;theme=light" alt="C++, TypeScript, Python, C" />
+</picture>
 
 </div>
 
@@ -16,7 +20,11 @@ AI agents are part of how I learn and ship; I keep the understanding, not just t
   <tr>
     <td width="50%">
       <a href="https://github.com/wuqiongjin/AAO-Editor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AAO-Editor&theme=github_dark&hide_border=true" alt="AAO-Editor" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AAO-Editor&theme=github_dark&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AAO-Editor&theme=default&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AAO-Editor&theme=default&hide_border=true" alt="AAO-Editor" />
+        </picture>
       </a>
     </td>
     <td width="50%" valign="middle">
@@ -31,12 +39,20 @@ AI agents are part of how I learn and ship; I keep the understanding, not just t
   <tr>
     <td width="50%">
       <a href="https://github.com/wuqiongjin/ConcurrentMemoryPool">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=ConcurrentMemoryPool&theme=github_dark&hide_border=true" alt="ConcurrentMemoryPool" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=ConcurrentMemoryPool&theme=github_dark&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=ConcurrentMemoryPool&theme=default&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=ConcurrentMemoryPool&theme=default&hide_border=true" alt="ConcurrentMemoryPool" />
+        </picture>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/wuqiongjin/AutonomousHTTPServer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AutonomousHTTPServer&theme=github_dark&hide_border=true" alt="AutonomousHTTPServer" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AutonomousHTTPServer&theme=github_dark&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AutonomousHTTPServer&theme=default&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuqiongjin&repo=AutonomousHTTPServer&theme=default&hide_border=true" alt="AutonomousHTTPServer" />
+        </picture>
       </a>
     </td>
   </tr>
@@ -47,10 +63,18 @@ AI agents are part of how I learn and ship; I keep the understanding, not just t
 <table>
   <tr>
     <td width="62%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=wuqiongjin&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wuqiongjin&theme=github-dark-blue&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=wuqiongjin&theme=default&hide_border=true" />
+        <img src="https://streak-stats.demolab.com?user=wuqiongjin&theme=default&hide_border=true" alt="GitHub streak" />
+      </picture>
     </td>
     <td width="38%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuqiongjin&layout=compact&theme=github_dark&hide_border=true&langs_count=4&hide=html,css,javascript,CoffeeScript,vue,shell" alt="Most used languages" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuqiongjin&layout=compact&theme=github_dark&hide_border=true&langs_count=4&hide=html,css,javascript,CoffeeScript,vue,shell" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuqiongjin&layout=compact&theme=default&hide_border=true&langs_count=4&hide=html,css,javascript,CoffeeScript,vue,shell" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuqiongjin&layout=compact&theme=default&hide_border=true&langs_count=4&hide=html,css,javascript,CoffeeScript,vue,shell" alt="Most used languages" />
+      </picture>
     </td>
   </tr>
 </table>
